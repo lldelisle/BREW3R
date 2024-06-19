@@ -14,4 +14,4 @@ Here is a schema of the workflow:
 
 All dependencies of BREW3R have been installed into a [docker container](https://hub.docker.com/r/lldelisle/brew3r).
 
-If you want to run BREW3R, you can use Galaxy or the sbatch scripts available in the [slurm](./slurm/) directory.
+If you want to run BREW3R, you can use [Galaxy](https://dockstore.org/workflows/github.com/iwc-workflows/brew3r/main:main?tab=info) or the sbatch scripts available in the [slurm](./slurm/) directory.
